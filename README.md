@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **React, Node and Flutter**
+- 🌱 I’m currently learning **React, Node and Hooks**
 
 - 📫 How to reach me **arnabc1701@gmail.com**
 
