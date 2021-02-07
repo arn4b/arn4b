@@ -41,8 +41,8 @@
   
 <h3 align="left">🤓 My Noob Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=arn4b&show_icons=true&locale=en" alt="arn4b" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=arn4b&show_icons=true&locale=en" alt="arn4b" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arn4b&show_icons=true&locale=en&layout=compact" alt="arn4b" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=arn4b&show_icons=true&locale=en&layout=compact" alt="arn4b" /></p>
 
 
