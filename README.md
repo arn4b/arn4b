@@ -3,16 +3,27 @@
 
 <img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" >
 
-- 🔭 I’m currently working on **some personal projects.**
+## 🔭 I’m currently working as
+* I am a Web Developer at [Microsoft Student Activity Centre - KIIT](https://msackiit.tech). I work on the frontend of multiple ongoing projects.
 
-- 🌱 I’m currently learning **React, Node and Hooks**
+* I'm also a Web Developer at [GeeksForGeeks KIIT Chapter](https://gfgkiit.netlify.com). I work on multiple projects as a Full Stack Developer.
 
-- 📫 Reach me at **arnabc1701@gmail.com**
+* I'm currently working on some side projects as well 😀.
+
+## 🌱 I’m currently learning
+
+* Exploring the depths of React, React Hooks and Redux.
+
+* Polishing up my CSS skills and learning Bootstrap, Material UI and Styled Components (still searching for my forte 😅)
+
+* Docker and Kubernetes
+
+## 📫 Reach me at **arnabc1701@gmail.com**
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/cyanide_arnab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cyanide_arnab" height="30" width="40" /></a>
 <a href="https://instagram.com/_arn4b_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_arn4b_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arn4b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="arn4b" height="30" width="40" /></a>
@@ -29,7 +40,7 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
