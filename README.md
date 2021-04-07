@@ -45,12 +45,6 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
-
-<h3 align="left">💻 My &lt;/&gt; machine has:</h3>
-  <img src="https://img.shields.io/badge/Windows-HP_PROBOOK_G1-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-MX130-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-
   
 <h3 align="left">🤓 My Noob Stats:</h3>
 
