@@ -45,8 +45,6 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
-  
-<h3 align="left">🤓 My Noob Stats:</h3>
 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=arn4b&show_icons=true&locale=en" alt="arn4b" /></p>
 
