@@ -45,9 +45,9 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
-
+<div class="row">
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=arn4b&show_icons=true&locale=en" alt="arn4b" /></p>
 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=arn4b&show_icons=true&locale=en&layout=compact" alt="arn4b" /></p>
-
+</div>
 ![](https://komarev.com/ghpvc/?username=arn4b&style=flat-square&label=VISITORS+👀)
