@@ -3,12 +3,13 @@
 
 <img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" >
 
-## 🔭 I’m currently working as
-* I am a Web Developer at [Microsoft Student Activity Centre - KIIT](https://msackiit.tech). I am working on the frontend of multiple ongoing projects.
+## 🔭 I’m currently working as a Web Developer at 
+* [Microsoft Students Ambassador Community KIIT](https://msackiit.tech)
+ 
+* [GeeksForGeeks KIIT Chapter](https://gfgkiit.co)
+ 
+* [Mozilla BBSR](https://mozillabbsr.me/)
 
-* I'm also a Web Developer at [GeeksForGeeks KIIT Chapter](https://gfgkiit.netlify.com). I am working on multiple projects as a Full Stack Developer.
-
-* I'm currently working on some side projects as well 😀.
 
 ## 🌱 I’m currently learning
 
