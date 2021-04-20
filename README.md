@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" >
 
