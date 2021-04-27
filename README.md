@@ -15,9 +15,9 @@
 
 * Exploring the depths of React, React Hooks and Redux.
 
-* Polishing up my CSS skills and learning Bootstrap, Material UI and Styled Components (still searching for my forte 😅)
+* Polishing up my CSS skills and learning Bootstrap, Material UI and Styled Components (still searching for my forte 😅).
 
-* Docker and Kubernetes
+* Docker and Kubernetes.
 
 ## 📫 Reach me at **arnabc1701@gmail.com**
 
