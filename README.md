@@ -53,8 +53,11 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=arn4b&show_icons=true&locale=en" alt="arn4b" /></p>
+[![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arn4b&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=arn4b&show_icons=true&locale=en&layout=compact" alt="arn4b" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arn4b&layout=compact&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arn4b&theme=highcontrast&ring=D400FF&fire=FFFFFF&currStreakLabel=D400FF&border=D400FF)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=arn4b&style=flat-square&label=VISITORS+👀)
+
