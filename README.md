@@ -10,18 +10,16 @@
  
 * [Mozilla BBSR](https://mozillabbsr.me/)
 
+* [Hackclub KIIT](https://kiit.hackclub.com/)
+
 
 ## 🌱 I’m currently learning
 
 * Exploring the depths of React, React Hooks and Redux.
 
-* Polishing up my CSS skills and learning Bootstrap, Material UI and Styled Components (still searching for my forte 😅).
-
-* Docker and Kubernetes.
+* Docker, Kubernetes and AWS.
 
 ## 📫 Reach me at **arnabc1701@gmail.com**
-
-## 👨‍💻 My Portfolio: [arn4b](http://arn4b.herokuapp.com)
 
 
 
