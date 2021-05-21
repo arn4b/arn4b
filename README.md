@@ -23,16 +23,15 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://twitter.com/cyanide_arnab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cyanide_arnab" height="30" width="40" /></a>
 <a href="https://instagram.com/_arn4b_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_arn4b_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arn4b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="arn4b" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<arn4b>/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="<arn4b>/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">👨‍💻 Technologies I can work with:</h3>
 <div class="row">
+ <p align="center">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -49,13 +48,14 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+ </p>
 </div>
 
 [![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arn4b&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arn4b&layout=compact&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arn4b&theme=highcontrast&ring=D400FF&fire=FFFFFF&currStreakLabel=D400FF&border=D400FF)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arn4b&layout=compact&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=arn4b&style=flat-square&label=VISITORS+👀)
 
