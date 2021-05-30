@@ -17,6 +17,8 @@
 
 * Exploring the depths of React, React Hooks and Redux.
 
+* Mobile dev w/ React Native.
+
 * Docker, Kubernetes and AWS.
 
 ## 📫 Reach me at **arnabc1701@gmail.com**
