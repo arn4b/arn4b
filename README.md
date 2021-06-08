@@ -4,6 +4,8 @@
 <img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" >
 
 ## 🔭 I’m currently working as a Web Developer at 
+* [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
+
 * [Microsoft Students Ambassador Community KIIT](https://msackiit.tech)
  
 * [GeeksForGeeks KIIT Chapter](https://gfgkiit.co)
