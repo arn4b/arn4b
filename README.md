@@ -9,8 +9,6 @@
 * [Microsoft Students Ambassador Community KIIT](https://msackiit.tech)
  
 * [GeeksForGeeks KIIT Chapter](https://gfgkiit.co)
- 
-* [Mozilla BBSR](https://mozillabbsr.me/)
 
 * [Hackclub KIIT](https://kiit.hackclub.com/)
 
