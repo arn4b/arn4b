@@ -3,7 +3,9 @@
 
 <img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" >
 
-## 🔭 I’m currently working as a Web Developer at 
+### I develop websites and have entrusted my career to a framework developed by Zuck and other guys at Facebook. When not developing, I'm probably vibing to some hip-hop on Spotify or AWPing my way through life's problems in CS:GO.
+
+### 🔭 Albert Einstien said you need experience to gain wisdom, so I guess working at
 * [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
 
 * [Microsoft Students Ambassador Community KIIT](https://msackiit.tech)
@@ -12,16 +14,20 @@
 
 * [Hackclub KIIT](https://kiit.hackclub.com/)
 
+ ### makes me wise ¯\\_(ツ)_/¯
+
 
 ## 🌱 I’m currently learning
 
-* Exploring the depths of React, React Hooks and Redux.
+* **React and Redux**, React because its cool and fast, and Redux because it pays more $$$ than just knowing React.
 
-* Mobile dev w/ React Native.
+* **Mobile dev w/ React Native.** Honestly I want to make an app and get rich fast but as if thats ever gonna happen.
 
-* Docker, Kubernetes and AWS.
+* **Docker, Kubernetes and AWS.** Learn DevOps they said. It will be fun they said.
 
 ## 📫 Reach me at **arnabc1701@gmail.com**
+
+Please do. I get lonely sometimes.
 
 
 
@@ -34,19 +40,23 @@
 <h3 align="left">👨‍💻 Technologies I can work with:</h3>
 <div class="row">
  <p align="center">
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />    
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -61,3 +71,4 @@
 
 ![](https://komarev.com/ghpvc/?username=arn4b&style=flat-square&label=VISITORS+👀)
 
+# G'Day.
