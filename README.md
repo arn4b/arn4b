@@ -3,7 +3,7 @@
 
 <img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" >
 
-### I develop websites and have entrusted my career to a framework developed by Zuck and other guys at Facebook. When not developing, I'm probably vibing to some hip-hop on Spotify or AWPing my way through life's problems in CS:GO.
+### I develop websites and have entrusted my career to a library developed by the folks at Facebook. When not developing, I'm probably vibing to some hip-hop on Spotify or AWPing my way through life's problems in CS:GO.
 
 ### 🔭 Albert Einstien said you need experience to gain wisdom, so I guess working at
 * [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
