@@ -5,7 +5,7 @@
 
 ### I develop websites and have entrusted my career to a library developed by the folks at Facebook. When not developing, I'm probably vibing to some hip-hop on Spotify or AWPing my way through life's problems in CS:GO.
 
-### 🔭 Albert Einstien said you need experience to gain wisdom, so I guess working at
+### 🔭 Timeline
 * [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
 
 * [Microsoft Students Ambassador Community KIIT](https://msackiit.tech)
@@ -13,8 +13,6 @@
 * [GeeksForGeeks KIIT Chapter](https://gfgkiit.co)
 
 * [Hackclub KIIT](https://kiit.hackclub.com/)
-
- ### makes me wise ¯\\_(ツ)_/¯
 
 
 ## 🌱 I’m currently learning
