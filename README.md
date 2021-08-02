@@ -9,8 +9,6 @@
 * [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
 
 * [Microsoft Students Ambassador Community KIIT](https://msackiit.tech)
- 
-* [GeeksForGeeks KIIT Chapter](https://gfgkiit.co)
 
 * [Hackclub KIIT](https://kiit.hackclub.com/)
 
