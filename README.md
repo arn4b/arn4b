@@ -72,4 +72,4 @@ Please do. I get lonely sometimes.
 
 ![](https://komarev.com/ghpvc/?username=arn4b&style=flat-square&label=VISITORS+👀)
 
-# G'Day.
+# G'Day
