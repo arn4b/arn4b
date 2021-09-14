@@ -8,9 +8,9 @@
 ### 🔭 Timeline
 * [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
 
-* [Microsoft Students Ambassador Community KIIT](https://msackiit.tech)
+* [Microsoft Students Community KIIT | Web Dev Lead](https://msackiit.tech)
 
-* [Hackclub KIIT](https://kiit.hackclub.com/)
+* [Hackclub KIIT | Core Web Team](https://kiit.hackclub.com/)
 
 
 ## 🌱 I’m currently learning
