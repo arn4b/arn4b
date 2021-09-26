@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
+<h3 align="center">A passionate Frontend developer from India</h3> -->
+
+<img align = "center" src = "https://raw.githubusercontent.com/arn4b/image-dump/master/header3.png?token=AOQ5IWB45HDBCMVVOPESTPTBLIJSE" >
 
 <img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" >
 
 ### I develop websites and have entrusted my career to a library developed by the folks at Facebook. When not developing, I'm probably vibing to some hip-hop on Spotify or AWPing my way through life's problems in CS:GO.
 
-### 🔭 Timeline
+## 🔭 Timeline
+
 * [SAWO Labs | Developer Champ](https://sawolabs.com)
 
 * [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
