@@ -20,7 +20,7 @@
 
 ## 🌱 I’m currently learning
 
-* **React, React Native and Redux**, React because its cool and fast, and Redux because it pays more $$$ than just knowing React.
+* **React and Redux**, React because its cool and fast, and Redux because it pays more $$$ than just knowing React.
 
 * **Mobile dev w/ React Native.** Honestly I want to make an app and get rich fast but as if thats ever gonna happen.
 
