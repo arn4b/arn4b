@@ -17,7 +17,6 @@
 
 * [Hackclub KIIT | Core Web Team](https://kiit.hackclub.com/)
 
-
 ## 🌱 I’m currently learning
 
 * **React and Redux**, React because its cool and fast, and Redux because it pays more $$$ than just knowing React.
@@ -68,6 +67,9 @@ Please do. I get lonely sometimes.
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
  </p>
 </div>
+
+![Metrics](https://metrics.lecoq.io/arn4b?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata)
+
 
 [![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arn4b&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
 
