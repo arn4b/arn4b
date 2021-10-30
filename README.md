@@ -9,13 +9,13 @@
 
 ## 🔭 Timeline
 
-* [SAWO Labs | Developer Champ](https://sawolabs.com)
-
 * [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
 
 * [Microsoft Students Community KIIT | Web Dev Lead](https://msackiit.tech)
 
 * [Hackclub KIIT | Core Web Team](https://kiit.hackclub.com/)
+
+* Mozilla BBSR | Web Developer
 
 ## 🌱 I’m currently learning
 
@@ -67,8 +67,8 @@ Please do. I get lonely sometimes.
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
  </p>
 </div>
-
-![Metrics](https://metrics.lecoq.io/arn4b?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata)
+<!-- 
+![Metrics](https://metrics.lecoq.io/arn4b?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata) -->
 
 
 [![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arn4b&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
