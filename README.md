@@ -15,7 +15,7 @@
 
 * [Hackclub KIIT | Core Web Team](https://kiit.hackclub.com/)
 
-* Mozilla BBSR | Web Developer
+* [Mozilla BBSR | Web Developer](https://community.mozilla.org/en/groups/mozilla-club-bbsr/)
 
 ## 🌱 I’m currently learning
 
