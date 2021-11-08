@@ -11,11 +11,11 @@
 
 * [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
 
-* [Microsoft Students Community KIIT | Web Dev Lead](https://msackiit.tech)
+* [Microsoft Students Community KIIT | Web Team Lead](https://msackiit.tech)
+
+* [Mozilla BBSR | Tech Lead](https://community.mozilla.org/en/groups/mozilla-club-bbsr/)
 
 * [Hackclub KIIT | Core Web Team](https://kiit.hackclub.com/)
-
-* [Mozilla BBSR | Web Developer](https://community.mozilla.org/en/groups/mozilla-club-bbsr/)
 
 ## 🌱 I’m currently learning
 
