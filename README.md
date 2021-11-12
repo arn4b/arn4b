@@ -9,11 +9,11 @@
 
 ## 🔭 Timeline
 
-* [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
-
 * [Microsoft Students Community KIIT | Web Team Lead](https://msackiit.tech)
 
 * [Mozilla BBSR | Tech Lead](https://community.mozilla.org/en/groups/mozilla-club-bbsr/)
+
+* [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
 
 * [Hackclub KIIT | Core Web Team](https://kiit.hackclub.com/)
 
