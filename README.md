@@ -9,6 +9,8 @@
 
 ## 🔭 Timeline
 
+* [Polygon | Frontend Engineer Intern](https://polygon.technology)
+
 * [Microsoft Students Community KIIT | Web Team Lead](https://msackiit.tech)
 
 * [Mozilla BBSR | Tech Lead](https://community.mozilla.org/en/groups/mozilla-club-bbsr/)
