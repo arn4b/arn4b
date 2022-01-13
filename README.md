@@ -19,11 +19,6 @@
 
 * [Hackclub KIIT | Core Web Team](https://kiit.hackclub.com/)
 
-## 🌱 I’m currently learning
-
-* **React and Redux**, React because its cool, and Redux because it pays more $$$ than just knowing React.
-
-* **JavaScript**, Boy, is JS tough 🥶
 
 ## 📫 Reach me at **arnabc1701@gmail.com**
 
