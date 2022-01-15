@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
 <h3 align="center">A passionate Frontend developer from India</h3> -->
 
-<img align = "center" src = "https://github.com/arn4b/image-dump/blob/6ae7a79e9f8bbc9000876b1e4eeea3590fe79689/header3.png" >
+<img align = "center" src = "https://github.com/arn4b/image-dump/blob/3db2f0eb974725246b2f349b4d5264d1c2cb57ff/Group%206.png" >
 
 <img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" >
 
@@ -32,7 +32,7 @@ Please do. I get lonely sometimes.
 <a href="https://www.linkedin.com/in/arnab-chatterjee-3944341a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_arn4b_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">👨‍💻 Technologies I can work with:</h3>
+<!-- <h3 align="left">👨‍💻 Technologies I can work with:</h3>
 <div class="row">
  <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -61,14 +61,17 @@ Please do. I get lonely sometimes.
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
  </p>
-</div>
+</div> -->
 <!-- 
 ![Metrics](https://metrics.lecoq.io/arn4b?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata) -->
 
+|  📈 | 🪐 |
+| :----:      |    :----:   |
+| [![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arn4b&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)   | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arn4b&theme=highcontrast&ring=D400FF&fire=FFFFFF&currStreakLabel=D400FF&border=D400FF)](https://git.io/streak-stats) |
 
-[![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arn4b&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arn4b&theme=highcontrast&ring=D400FF&fire=FFFFFF&currStreakLabel=D400FF&border=D400FF)](https://git.io/streak-stats)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arn4b&layout=compact&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
 
