@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Frontend developer from India</h3> -->
 
 <img align = "center" src = "https://github.com/arn4b/image-dump/blob/3db2f0eb974725246b2f349b4d5264d1c2cb57ff/Group%206.png" >
-
-<img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" >
+<!-- 
+<img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" > -->
 
 ### I develop websites and have entrusted my career to a library developed by the folks at Facebook. When not developing, I'm probably vibing to some hip-hop on Spotify or AWPing my way through life's problems in CS:GO.
 
@@ -19,18 +19,18 @@
 
 * [Hackclub KIIT | Core Web Team](https://kiit.hackclub.com/)
 
-
+<!-- 
 ## 📫 Reach me at **arnabc1701@gmail.com**
 
-Please do. I get lonely sometimes.
+Please do. I get lonely sometimes. -->
 
 
 
-<h3>Connect with me :</h3>
+<!-- <h3>Connect with me :</h3>
 <p>
 <a href="https://twitter.com/arn4b_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cyanide_arnab" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arnab-chatterjee-3944341a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_arn4b_" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <!-- <h3 align="left">👨‍💻 Technologies I can work with:</h3>
 <div class="row">
@@ -64,16 +64,13 @@ Please do. I get lonely sometimes.
 </div> -->
 <!-- 
 ![Metrics](https://metrics.lecoq.io/arn4b?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata) -->
-
-|  📈 | 🪐 |
-| :----:      |    :----:   |
-| [![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arn4b&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)   | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arn4b&theme=highcontrast&ring=D400FF&fire=FFFFFF&currStreakLabel=D400FF&border=D400FF)](https://git.io/streak-stats) |
+[![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arn4b&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arn4b&layout=compact&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arn4b&layout=compact&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![](https://komarev.com/ghpvc/?username=arn4b&style=flat-square&label=VISITORS+👀)
 
