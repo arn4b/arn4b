@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
 <h3 align="center">A passionate Frontend developer from India</h3> -->
 
-<img align = "center" src = "https://github.com/arn4b/image-dump/blob/3db2f0eb974725246b2f349b4d5264d1c2cb57ff/Group%206.png" >
+<img align = "center" src = "https://github.com/arn4b/image-dump/blob/c7b615fe213286c6a580eec47c7fb3d1681fdf6e/Frame%206.png" >
 <!-- 
 <img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" > -->
 
