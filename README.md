@@ -7,8 +7,12 @@
 
 ### I develop websites and have entrusted my career to a library developed by the folks at Facebook. When not developing, I'm probably vibing to some hip-hop on Spotify or AWPing my way through life's problems in CS:GO.
 
-## 🔭 Timeline
+### ✨Currently battling FOMO by learning TypeScript✨
 
+<details>
+  <summary>Past work</summary>
+  
+  ## 🔭 Timeline
 * [Polygon | Frontend Engineer Intern](https://polygon.technology)
 
 * [Microsoft Students Community KIIT | Web Team Lead](https://msackiit.tech)
@@ -18,7 +22,7 @@
 * [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
 
 * [Hackclub KIIT | Core Web Team](https://kiit.hackclub.com/)
-
+</details>
 <!-- 
 ## 📫 Reach me at **arnabc1701@gmail.com**
 
