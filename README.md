@@ -5,7 +5,7 @@
 <!-- 
 <img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" > -->
 
-### I develop websites and have entrusted my career to a library developed by the folks at Facebook. When not developing, I'm probably vibing to some hip-hop on Spotify or AWPing my way through life's problems in CS:GO.
+### I create beautfiul web interfaces for millions of people and have entrusted my career to a language developed by Brendan Eich. When not developing, I'm probably vibing to some hip-hop on Spotify or AWPing my way through life's problems in CS:GO.
 
 ### ✨Currently battling FOMO by learning TypeScript✨
 
