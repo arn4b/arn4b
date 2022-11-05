@@ -1,30 +1,26 @@
 <!-- <h1 align="center">Hi 👋, I'm Arnab Chatterjee</h1>
 <h3 align="center">A passionate Frontend developer from India</h3> -->
 
-<img align = "center" src = "https://github.com/arn4b/image-dump/blob/c7b615fe213286c6a580eec47c7fb3d1681fdf6e/Frame%206.png" >
+<img align = "center" src = "https://user-images.githubusercontent.com/60937304/200104605-46debccd-4e3d-4a2b-89a4-ff248ec43da7.png" >
 <!-- 
 <img align = "right" src = "https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width = "400" > -->
 
-### I create beautfiul web interfaces for millions of people and have entrusted my career to a language developed by Brendan Eich. When not developing, I'm probably vibing to some hip-hop on Spotify or AWPing my way through life's problems in CS:GO.
-
-### ✨Currently battling FOMO by learning TypeScript✨
-
-<details>
-  <summary>Past work</summary>
+### Sipping French Vanilla coffee, committing code that barely works, cursing ESLint every time I have no reason to, AWPing mindlesly in CS:GO, having 21 Savage plugged in 24x7, & _Engineering beautiful things at scale._
   
-  ## 🔭 Timeline
-* [Fi Money | Software Engineer Intern](https://fi.money)
+### 🔭 Timeline
+* Amazon India ✧ Incoming Delivery Boy. Will be delivering npm packages, not `madam aapka package aaya hai OTP pls` packages, ffs.
   
-* [Polygon | Frontend Engineer Intern](https://polygon.technology)
+* Fi Money ✧ Pretending to make tools for engineering teams. Also websites.
+  
+* Polygon Technology ✧ Made a wallet that handles 2 and a half mil txns. Also made a dApp that never saw the light of the day.
 
-* [Mauka Education | Frontend Developer Intern](https://maukaeducation.com/)
+* Mauka Education ✧ Made 60+ students cry looking at my UI. Never felt prouder.
 
-* [Microsoft Students Community KIIT | Web Team Lead](https://msackiit.tech)
+* Microsoft Students Community KIIT ✧ Lead a web team and none of us did nothing.
 
-* [Mozilla BBSR | Tech Lead](https://community.mozilla.org/en/groups/mozilla-club-bbsr/)
+* Mozilla BBSR ✧ Lead a team who went on to lead more teams.
 
-* [Hackclub KIIT | Core Web Team](https://kiit.hackclub.com/)
-</details>
+* Hackclub KIIT ✧ Met a senior who changed my career trajectory. Legend.
 <!-- 
 ## 📫 Reach me at **arnabc1701@gmail.com**
 
@@ -70,8 +66,8 @@ Please do. I get lonely sometimes. -->
 </div> -->
 <!-- 
 ![Metrics](https://metrics.lecoq.io/arn4b?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata) -->
-[![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arn4b&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arn4b&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 
 
@@ -80,4 +76,4 @@ Please do. I get lonely sometimes. -->
 
 ![](https://komarev.com/ghpvc/?username=arn4b&style=flat-square&label=VISITORS+👀)
 
-# G'Day.
+### G'Day.
