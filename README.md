@@ -8,7 +8,7 @@
 ### Sipping French Vanilla coffee, committing code that barely works, cursing ESLint every time I have no reason to, AWPing mindlesly in CS:GO, having 21 Savage plugged in 24x7, & _Engineering beautiful things at scale._
   
 ### 🔭 Timeline
-* Amazon India ✧ Incoming Delivery Boy. Will be delivering npm packages, not `madam aapka package aaya hai OTP pls` packages, ffs.
+* Amazon India ✧ Incoming Delivery Boy. Will deliver software, not packages.
   
 * Fi Money ✧ Pretending to make tools for engineering teams. Also websites.
   
