@@ -8,8 +8,7 @@
 ### Sipping French Vanilla coffee, committing code that barely works, cursing ESLint every time I have no reason to, AWPing mindlesly in CS:GO, having 21 Savage plugged in 24x7, & _Engineering beautiful things at scale._
   
 ### 🔭 Timeline
-* Amazon India ✧ Incoming Delivery Boy. Will deliver software, not packages.
-  
+<!-- * Amazon India ✧ Incoming Delivery Boy. Will deliver software, not packages. -->
 * Fi Money ✧ Pretending to make tools for engineering teams. Also websites.
   
 * Polygon Technology ✧ Made a wallet that handles 2 and a half mil txns. Also made a dApp that never saw the light of the day.
