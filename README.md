@@ -9,9 +9,11 @@
   
 ### 🔭 Timeline
 <!-- * Amazon India ✧ Incoming Delivery Boy. Will deliver software, not packages. -->
-* Fi Money ✧ Pretending to make tools for engineering teams. Also websites.
+* Push Protocol ✧ Building the comms stack for web3.
+
+* Fi Money ✧ Made awesome webviews, calcs, internal tools and wrote lots of docs.
   
-* Polygon Technology ✧ Made a wallet that handles 2 and a half mil txns. Also made a dApp that never saw the light of the day.
+* Polygon Labs ✧ Made a wallet that handles 2 and a half mil txns. Also made a dApp that never saw the light of the day.
 
 * Mauka Education ✧ Made 60+ students cry looking at my UI. Never felt prouder.
 
